@@ -1,5 +1,5 @@
 # Random samples from each of three different types of light bulbs were tested to see how long the light bulbs lasted, with the following results.
-Brand
+# Brand
 # A B C
 # 73 84 82
 # 64 80 79
